@@ -1,0 +1,37 @@
+.main-content{
+    display: flex;
+    padding: 120px;
+}
+
+.left{
+    font-size:24px;
+    font-weight:bold;
+}
+.center{
+    font-size:24px;
+    font-weight:bold;
+}
+.right{
+    font-size:24px;
+    font-weight:bold;
+}
+.left-content{
+    margin: 24px;
+    width: auto;
+}
+.center-content{
+    margin: 24px;
+    width: 30%;
+}
+.right-content{
+    margin: 24px;
+    width: auto;
+}
+li {
+    list-style: none;
+    color: #555;
+  }
+  .center-word{
+      width: 100%;
+  }
+  
